@@ -1,3 +1,4 @@
-Base on the flow-optical example, I played around the color, position and shape of the grid system and graphs.
-I also try to add the "edge-detection" function to this drawing. 
+Base on the flow-optical example, I changed the color, movement and shape of the grid system and graphs. 
+By digging into the JS file and libraries, I was able to understand the "outer layer" of the CV.
+Right now I am trying to add the "edge-detection" function to this drawing. 
 
